@@ -1,3 +1,6 @@
 fun main() {
-    fizzbuzz()
+//    fizzBuzz()
+//    palindromeChecker()
+//    longestWordInSentence()
+    sudokoSolver()
 }
